@@ -8,60 +8,10 @@
       "libs": [
         {
           "name": "KIELHAX PREMIER [ PREMIUM SKINHAX ]",
-          "lib_name": "libkielhaxpremier.so",
-          "download_url": "https://raw.githubusercontent.com/kabakupal92-crypto/kielhax.json/main/libkielhaxpremier.so"
-        },
-                {
-          "name": "KIELHAX OBSIDIAN [ SMOOTH/SNOWBOARD SKIN ]",
-          "lib_name": "libkielhaxobsidian.so",
-          "download_url": "https://raw.githubusercontent.com/kabakupal92-crypto/kielhax.json/main/libkielhaxobsidian.so"
-                }
-      ]
-    },
-    {
-      "name": "BLOOD STRIKE",
-      "status": "ONLINE",
-      "game_activity": "com.netease.bloodstrike.unity.MainActivity",
-      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/b23ec8eaa31eb1e679e9a88509adb3f5.jpg",
-      "libs": [
-        {
-          "name": "KIELHAX BLOODSTRIKE [ SULASOK ]",
-          "lib_name": "libkielhaxbloodstrike.so",
-          "download_url": "https://xaidomain.x10.mx/Farlight/libkielhaxbloodstrike.so"
-        }
-      ]
-    },
-    {
-      "name": "MOBILE LEGENDS",
-      "status": "ONLINE",
-      "game_activity": "com.moba.unityplugin.MobaGameMainActivity",
-      "logo": "https://raw.githubusercontent.com/senseikiel8-coder/kiel.json/main/1ee440fb871542f6cdb2032200ef725f.jpg",
-      "libs": [
-        {
-          "name": "KIELHAX MLBB",
-          "lib_name": "libkielhaxmlbb.so",
-          "download_url": "https://xaidomain.x10.mx/Farlight/libkielhaxmlbb.so"
-        }
-      ]
-    },
-    {
-      "name": "CODM CRACKS",
-      "status": "MAINTENANCE",
-      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
-      "logo": "https://raw.githubusercontent.com/senseikiel8-coder/kiel.json/main/cracks.png",
-      "libs": [
-        {
-          "name": "cid deluxe",
-          "lib_name": "libv+++.so",
-          "download_url": "https://xaidomain.x10.mx/Farlight/libv+++.so"
-        },
-        {
-          "name": "ARIX CRACK",
-          "lib_name": "ARIXCRACK.so",
-          "download_url": "https://xaidomain.x10.mx/Farlight/ARIXCRACK.so"
+          "lib_name": "libkielhaxFREE.so",
+          "download_url": "https://raw.githubusercontent.com/kabakupal92-crypto/kielhax.json/main/libkielhaxFRER.so"
         }
       ]
     }
-  ],
-  "music": "https://audio.jukehost.co.uk/019f048e-8f8a-7153-92c7-edc0da3a7b80"
+  ]
 }
