@@ -1,1 +1,19 @@
 
+{
+  "systems": [
+    {
+      "name": "CALL OF DUTY",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/4c91b95a589c61e4f0b9fc0302a0addd.jpg",
+      "libs": [
+        {
+          "name": "MARK CRACK",
+          "lib_name": "libmarkcus.so",
+          "download_url": "https://elohym.x10.mx/Farlight/libmarkcus.so"
+        }
+      ]
+    }
+  ],
+  "music": "https://zomato.top/anti/lib/Kalapastangan.mp3"
+}
