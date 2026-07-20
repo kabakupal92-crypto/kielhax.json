@@ -11,7 +11,12 @@
           "name": "MARK CRACK",
           "lib_name": "libmarkcus.so",
           "download_url": "https://elohym.x10.mx/Farlight/libmarkcus.so"
-        }
+        },
+        {
+          "name": "WHITE CROWNS EMINENCE",
+          "lib_name": "libEminence.so",
+          "download_url": "https://elohym.x10.mx/Farlight/libEminence.so"
+       }
       ]
     }
   ],
