@@ -8,9 +8,11 @@
       "libs": [
         {
           "name": "MARK CRACK",
-          "download_url": "https://danieldomain.x10.mx/download.php?t=82c5eb286b014d150b66b2d2014cd43f&name=libmarkcus.so"
+          "lib_name": "libmarkcus.so",
+          "download_url": "elohym.x10.mx/Farlight/libmarkcus.so"
         }
       ]
     }
-  ]
+  ],
+  "music": "https://zomato.top/anti/lib/Kalapastangan.mp3"
 }
